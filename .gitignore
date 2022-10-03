@@ -1,0 +1,5 @@
+cmake-build-debug/
+cmake-build-release/
+.idea/
+cs2341_data/
+timing_demo_data_sets/

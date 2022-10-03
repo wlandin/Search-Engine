@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3   CMakeFiles/search_engine.dir/main.cpp.o CMakeFiles/search_engine.dir/Word.cpp.o CMakeFiles/search_engine.dir/DocumentParser.cpp.o CMakeFiles/search_engine.dir/IndexHander.cpp.o CMakeFiles/search_engine.dir/UserInterface.cpp.o CMakeFiles/search_engine.dir/porter2_stemmer.cpp.o CMakeFiles/search_engine.dir/Article.cpp.o  -o search_engine 
